@@ -44,10 +44,10 @@ This is a template repo for future projects. [repo-template](https://github.com/
 - [ ] Reformat README.md 
 - [ ] Find and create issue templates
 - [ ] ??
-- [ ] 
 
 ## 🗽 Licenses
 
 
 ## 🌏 Contributions
+
 
