@@ -12,7 +12,7 @@
 
 ********************
 
-![meowgix-logo](/images/meowgix-logo.svg)
+![repo-template-logo](/images/repo-template.svg)
 
 ********************
 
@@ -28,21 +28,26 @@ CODE TEXT GOES HERE
 
 ## ✏️ About
 
-This is a tool called [ToolName](https://toolwebsite) by [Author](https://authorpage).
+This is a template repo for future projects. [repo-template](https://github.com/meowgix/repo-template) by [meowgix](https://github.com/meowgix).
 
 ## 📥 Changelog
 
 > Version 0.0
 
 ```
-- [0000-00-00] Notes on update
+[2022-09-12]
+    + Initialized repo 
 ```
 
 ## 📌 To Do
 
-- [x] Task 1 
-- [ ] Task 2
-- [ ] Task 3
-- [ ] Task 4
+- [ ] Reformat README.md 
+- [ ] Find and create issue templates
+- [ ] ??
+- [ ] 
 
+## 🗽 Licenses
+
+
+## 🌏 Contributions
 
